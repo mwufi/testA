@@ -1,5 +1,5 @@
 {
-  "name": "@ztet/usage",
+  "name": "@mwufi/usage",
   "repository": {
     "type": "git",
     "url": "https://github.com/mwufi/testA.git",
@@ -13,5 +13,5 @@
   "publishConfig": {
     "registry": "https://npm.pkg.github.com"
   },
-  "gitHead": "d3e0d40b7e6ff9d22288ad836d631d3c7ccded79"
+  "gitHead": "0cfd53c5eeb29b020e18fbb37d608d7d02152922"
 }

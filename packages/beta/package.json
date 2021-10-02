@@ -5,7 +5,7 @@
     "url": "https://github.com/mwufi/testA.git",
     "directory": "packages/beta"
   },
-  "version": "0.0.7",
+  "version": "0.0.8",
   "publishConfig": {
     "registry": "https://npm.pkg.github.com/"
   },

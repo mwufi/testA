@@ -5,9 +5,9 @@
     "url": "https://github.com/mwufi/testA.git",
     "directory": "packages/alpha"
   },
-  "version": "0.0.9",
+  "version": "0.0.10",
   "publishConfig": {
     "registry": "https://npm.pkg.github.com/"
   },
-  "gitHead": "bfe1c4c699361591a37348ce3fc0ad6d7a3d3a31"
+  "gitHead": "d3e0d40b7e6ff9d22288ad836d631d3c7ccded79"
 }

@@ -1,5 +1,5 @@
 {
-  "name": "@flow-starter/alpha",
+  "name": "@mwufi/alpha",
   "repository": {
     "type": "git",
     "url": "https://github.com/mwufi/testA.git",
@@ -9,5 +9,5 @@
   "publishConfig": {
     "registry": "https://npm.pkg.github.com/"
   },
-  "gitHead": "2630798e27655fe725ae1fe7d608a9101f6c8c2e"
+  "gitHead": "2ab09a72957d41bec0fa4a169e71c3d04b92aaa1"
 }

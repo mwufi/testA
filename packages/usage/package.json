@@ -1,10 +1,10 @@
 {
   "name": "@your-username/usage",
   "repository": "git@github.com:your-username/your-repo-name.git",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "dependencies": {
-    "@your-username/alpha": "^0.0.2",
-    "@your-username/beta": "^0.0.2"
+    "@your-username/alpha": "^0.0.3",
+    "@your-username/beta": "^0.0.3"
   },
   "publishConfig": {
     "registry": "https://npm.pkg.github.com/"

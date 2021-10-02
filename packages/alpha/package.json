@@ -4,5 +4,6 @@
   "version": "0.0.2",
   "publishConfig": {
     "registry": "https://npm.pkg.github.com/"
-  }
+  },
+  "gitHead": "2f2a82703a04227406c4607f2548e07c25002084"
 }

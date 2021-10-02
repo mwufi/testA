@@ -5,10 +5,10 @@
     "url": "https://github.com/mwufi/testA.git",
     "directory": "packages/usage"
   },
-  "version": "0.0.5",
+  "version": "0.0.6",
   "dependencies": {
-    "@flow-starter/alpha": "^0.0.5",
-    "@flow-starter/beta": "^0.0.5"
+    "@flow-starter/alpha": "^0.0.6",
+    "@flow-starter/beta": "^0.0.6"
   },
   "publishConfig": {
     "registry": "https://npm.pkg.github.com/"

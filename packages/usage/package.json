@@ -1,10 +1,10 @@
 {
   "name": "@ztet/usage",
   "repository": "git@github.com:your-username/your-repo-name.git",
-  "version": "0.0.4",
+  "version": "0.0.5",
   "dependencies": {
-    "@flow-starter/alpha": "^0.0.4",
-    "@flow-starter/beta": "^0.0.4"
+    "@flow-starter/alpha": "^0.0.5",
+    "@flow-starter/beta": "^0.0.5"
   },
   "publishConfig": {
     "registry": "https://npm.pkg.github.com/"

@@ -1,9 +1,13 @@
 {
   "name": "@flow-starter/beta",
-  "repository": "git@github.com:your-username/your-repo-name.git",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/mwufi/testA.git",
+    "directory": "packages/beta"
+  },
   "version": "0.0.5",
   "publishConfig": {
     "registry": "https://npm.pkg.github.com/"
   },
-  "gitHead": "371a3b30dc2e559b9e9ab4525861544d3021cdf7"
+  "gitHead": "a143ce328d951de29245126fd5d349b53324ad41"
 }
